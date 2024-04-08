@@ -8,6 +8,8 @@
 
 ## 1. [Comparación de imagenes.](Comparación-de-Imágenes/)
 
+Los cuadros rojos presentes en la imagen representan las discrepancias o diferencias entre la imagen A y la imagen B. Estas diferencias pueden ser visuales o de contenido, y pueden indicar posibles errores, inconsistencias o cambios entre las dos imágenes comparadas.
+
 ![](Comparación-de-Imágenes/DiferenciasEncontradas.png)
 
 ## 4. [Mindset QA.](Mindset-QA/)
